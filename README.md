@@ -39,4 +39,4 @@ Before:
 
 After:
 
-![](http://yo.bkwld.com/293d3B0d2C2z/Image%202018-04-30%20at%204.08.56%20PM.png)
+![](http://yo.bkwld.com/423M193i352i/Image%202018-04-30%20at%204.27.27%20PM.png)
