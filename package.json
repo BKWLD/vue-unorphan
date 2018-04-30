@@ -1,0 +1,29 @@
+{
+  "name": "vue-unorphan",
+  "version": "1.0.0",
+  "description": "A Vue directive that implements the \"unorphan\" package",
+  "main": "index.js",
+  "scripts": {
+    "build": "coffee -ct index.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BKWLD/vue-unorphan.git"
+  },
+  "keywords": [
+    "vue",
+    "unorphan"
+  ],
+  "author": "Bukwild",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BKWLD/vue-unorphan/issues"
+  },
+  "homepage": "https://github.com/BKWLD/vue-unorphan#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.6.1",
+    "coffeescript": "^2.3.0"
+  }
+}
