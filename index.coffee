@@ -1,2 +1,2 @@
-import unorphan from 'unorphan'
-export default bind: (el) -> unorphan(el)
+unorphan = require 'unorphan'
+module.exports = bind: (el) -> unorphan(el)
