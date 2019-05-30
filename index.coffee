@@ -1,2 +1,2 @@
 unorphan = require 'unorphan'
-module.exports = bind: (el) -> unorphan(el)
+module.exports = bind: (el, { value }) -> unorphan(el) unless value == false
