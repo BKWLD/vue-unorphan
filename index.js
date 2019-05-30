@@ -5,8 +5,10 @@
   unorphan = require('unorphan');
 
   module.exports = {
-    bind: function (el) {
-      return unorphan(el);
+    bind: function (el, { value }) {
+      if (value !== false) {
+        return unorphan(el);
+      }
     }
   };
 }).call(this);
