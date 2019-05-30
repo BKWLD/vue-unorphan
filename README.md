@@ -4,7 +4,7 @@ A Vue directive that implements [unorphan](https://github.com/rstacruz/unorphan)
 
 ## Install
 
-`yarn add unorphan or npm install --save unorphan`
+`yarn add vue-unorphan or npm install --save vue-unorphan`
 
 #### Vue
 
