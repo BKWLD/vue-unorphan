@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/BKWLD/vue-unorphan#readme",
   "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
     "coffeescript": "^2.3.0"
   },
   "dependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
     "unorphan": "^1.2.1"
   }
 }
